@@ -1,3 +1,3 @@
 module.exports = {
-    baseURL : "http://localhost:8000"
+    baseURL : "https://agitated-herschel.38-242-202-60.plesk.page"
 }
